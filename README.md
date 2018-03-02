@@ -16,4 +16,5 @@ C++ standard library.
 # How to play
 Each play presses enter on his turn to throw dice.
 
-# TO-DO : Designing game levels based on Marcov chain.
+# TO-DO :
+Designing game levels based on Marcov chain.
