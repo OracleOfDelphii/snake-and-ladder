@@ -6,6 +6,7 @@ Highly customizable.You can define number of snakes , ladders , cells and player
 It uses an implemention of BFS algorithm to find shortest path from player P to last cell(I wrote an implemention of djikstra algorithm for fun too).You can take average of distances as one of the factors of game difficulty(for simplicity).
 
 Colorful with graphical table and simple animations thanks to ANSI escape sequences(some enviornments may or may not support all of them).
+
 playing sound and music with SDL library.
 # libraries/frameworks used:
 -SDL2 : playing dice sound and background music.Background music is from Mount and Blade : With Fire and Sword.
