@@ -10,7 +10,9 @@ Colorful with graphical table and simple animations thanks to ANSI escape sequen
 playing sound and music with SDL library.
 # libraries/frameworks used:
 -SDL2 : playing dice sound and background music.Background music is from Mount and Blade : With Fire and Sword.
+
 QT : QDir and QString to work on directories and files.
+
 C++ standard library.
 
 # How to play
