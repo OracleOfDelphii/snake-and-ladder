@@ -1,6 +1,6 @@
 # Snake and Ladder
 This is a simple terminal snake & ladder game.
-I made it for basics of computer course in university and it is my first c++ project.I tried my best to write code with good-readability and learned many things from it.
+I made it for basics of computer course and it is my first c++ project.I tried my best to write code with good-readability and learned many things from it.
 # Game Features
 Highly customizable.You can define number of snakes , ladders , cells and players.
 It uses an implemention of BFS algorithm to find shortest path from player P to last cell(I wrote an implemention of djikstra algorithm for fun too).You can take average of distances as one of the factors of game difficulty(for simplicity).
