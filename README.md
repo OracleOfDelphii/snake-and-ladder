@@ -1,3 +1,5 @@
+ 
+![alt screenshot](https://github.com/ariaman5/snake-and-ladder/blob/master/Screenshot%20from%202018-03-03%2019-00-34.png)
 # Snake and Ladder
 This is a simple terminal snake & ladder game.
 I made it for basics of computer course and it is my first c++ project.I tried my best to write code with good-readability and learned many things from it.
